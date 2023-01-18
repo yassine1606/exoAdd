@@ -40,10 +40,5 @@ btnInv.addEventListener('click',()=>{
     label1.innerHTML = label2.innerHTML;
     label2.innerHTML = label3;
 })
-URLSearchParams
-if (condition) {
-    
-} else {
-    
-}
+
 
